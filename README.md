@@ -30,3 +30,11 @@ Image Processing	OpenCV
 Visualization	Matplotlib, Seaborn
 Platform	VS Code
 Version Control	GitHub
+----------------------------------------------------------------------------------------------------
+# Week-1
+Installed dependencies,Requirements Libraries
+Project setup files in VS code
+Downloaded Data set from Kaggle
+Database created in MYSQL for this Project
+Used a Pretrained model like EfficientNetB0 or ResNet50 for better accuracy.
+Image classification Using CNN model and analytics.
