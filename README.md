@@ -1,40 +1,25 @@
 🌾 AgriWaste-Classifier
 Automated Detection of Spoiled Agricultural Produce using CNN
-🧩 Problem Statement
 
+    
+🧩 Problem Statement
 A large amount of agricultural produce is wasted due to inefficient post-harvest handling and distribution.
 Farmers and distributors often lack real-time tools to assess the freshness and quality of produce, leading to:
-
 Premature spoilage
-
 Poor storage management
-
 Unnecessary financial and resource losses
-
 This project aims to design an AI-driven system that utilizes Convolutional Neural Networks (CNNs), Machine Learning analytics, and a Chatbot assistant to:
-
 🔍 Automatically detect and classify spoiled produce
-
 📊 Provide waste analytics and composting recommendations
-
 🤖 Interact with users through a chatbot for produce-quality guidance and composting practices
-
 💡 Proposed Solution
-
 The AgriWaste-Classifier integrates Computer Vision, Machine Learning, and Conversational AI into a unified system.
-
 🖼️ 1. Image Classification (CNN)
-
 Capture images of fruits and vegetables.
-
 Use a CNN model (e.g., ResNet50, EfficientNetB0, or a custom CNN) to classify produce into categories:
-
 Fresh 🍏
-
 Borderline 🍊
-
 Spoiled 🍅
-
 Automatically separate usable produce from waste.
 
 📈 2. Machine Learning Analytics
