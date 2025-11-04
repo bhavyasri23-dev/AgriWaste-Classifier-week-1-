@@ -56,18 +56,30 @@ Receiving quality feedback and composting tips
 Viewing weekly waste reports and optimization suggestions
 
 🛠️ Technology Stack
+
 Category	Tools/Frameworks
+
 Programming Language	Python
+
 Deep Learning	CNN (ResNet50, EfficientNetB0, Custom CNN)
+
 Machine Learning	Scikit-learn
+
 Image Processing	OpenCV
+
 Visualization	Matplotlib, Seaborn
+
 Web Interface	Streamlit / Flask
+
 Database	MySQL
+
 Version Control	Git & GitHub
+
 IDE	VS Code
+
 📅 Project Timeline
-Week 1
+ 
+ In  Week 1
 
 ✅ Installed dependencies and required Python libraries
 
@@ -100,20 +112,29 @@ Analytics dashboard: Pie chart of spoilage percentage, line graph for trend pred
 Chatbot interface: Image upload + composting advice
 
 🧠 Model Architecture
-Input Image → Preprocessing (OpenCV)
+ 
+ Input Image → Preprocessing (OpenCV)
+
 → CNN Model (EfficientNetB0 / ResNet50)
+
 → Classification Layer (Softmax)
+
 → Output: [Fresh, Borderline, Spoiled]
 
 📦 Installation & Usage
+
 1. Clone Repository
-git clone https://github.com/yourusername/AgriWaste-Classifier.git
+
+git clone https://github.com/bhavyasri23-dev/AgriWaste-Classifier.git
+
 cd AgriWaste-Classifier
 
 2. Install Dependencies
+
 pip install -r requirements.txt
 
 3. Run Streamlit App
+
 streamlit run app.py
 
 4. Use the Application
