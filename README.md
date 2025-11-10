@@ -145,4 +145,21 @@ Get freshness classification
 
 View analytics
 
+In week 2
+Completed model architecture selection (EfficientNetB3)
+
+Implemented improved data preprocessing and augmentation
+
+Extracted and organized Kaggle dataset into the required folder structure
+  
+Created train/validation/test data generators
+  
+Implemented early stopping, model checkpoint, and learning-rate scheduler
+  
+Ran initial training and evaluated accuracy, precision, recall, and F1-score
+  
+Generated performance visualizations (training curves, confusion matrix)
+  
+Identified misclassified samples for further dataset cleaning
+
 Chat with the assistant for composting guidance
